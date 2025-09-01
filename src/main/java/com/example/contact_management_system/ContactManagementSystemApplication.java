@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class ContactManagementSystemApplication {
-	// ijihtghrtighrtihrtihgirgrtighrighr
+	// ijihtghrtighrtihrtihgirgrtighrighrgugugugugugg
 
 	public static void main(String[] args) {
 		SpringApplication.run(ContactManagementSystemApplication.class, args);
